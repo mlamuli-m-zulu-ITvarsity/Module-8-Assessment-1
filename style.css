@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+/****************************FORM*****************************/
+
+form a{
+    text-decoration: none;
+    color: rgb(70, 58, 57);
+    background-color: rgb(80, 200, 255);
+}
+
+form a:hover{
+    color: rgb(191, 255, 255);
+}
+
+form{
+    background-color: rgb(192, 214, 214);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -16px;
+    padding-bottom: 30px;
+}
+
+p{
+    background-color: rgb(192, 214, 214);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+}
+
+/***************MESSAGE*************/
+
+#message{
+    color: red;
+}
